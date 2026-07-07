@@ -14,11 +14,11 @@
 
   var MODULE_TITLES = {
     1:"Foundations of Global Migration",2:"Migration Data and Global Trends",3:"Drivers of Migration",
-    4:"Migration Through History",5:"Migration Journeys and Routes",6:"Refugees, Asylum, and Forced Displacement",
-    7:"Borders, Sovereignty, and Migration Policy",8:"Migration, Labor, and the Global Economy",
+    4:"Migration Through History",5:"Migration Journey and Experience",6:"Refugees, Asylum, and Forced Displacement",
+    7:"Borders, Sovereignty, and Policy",8:"Migration, Labor, and the Economy",
     9:"Migrant Lives and Identities",10:"Cities, Communities, and Integration",11:"Religion, Ethics, and Migration",
-    12:"Media, Narratives, and Public Perception",13:"Climate Change and Future Displacement",
-    14:"Solutions, Governance, and the Future of Migration"
+    12:"Media, Narratives, and Representation",13:"Climate Change and Migration",
+    14:"Solutions, Governance, and the Future"
   };
 
   function start(data) {
@@ -70,7 +70,7 @@
       groups[L].forEach(function (d) {
         html += '<div class="gterm" data-term="' + esc((d.term + ' ' + d.def).toLowerCase()) + '">' +
                 '<dt>' + esc(d.term) + '</dt><dd>' + esc(d.def) + '</dd>' +
-                (d.module ? '<div class="gmod">Module ' + d.module + ' &middot; ' + esc(MODULE_TITLES[d.module] || '') + '</div>' : '') +
+                (d.module ? '<div class="gmod">' + esc(MODULE_TITLES[d.module] || '') + '</div>' : '') +
                 '</div>';
       });
       html += '</dl></div>';
@@ -138,7 +138,7 @@
           '<span class="side-label">Definition</span>' +
           '<span class="term">' + esc(d.term) + '</span>' +
           '<span class="def">' + esc(d.def) + '</span>' +
-          (d.module ? '<span class="hint">Module ' + d.module + ' · ' + esc(MODULE_TITLES[d.module] || '') + '</span>' : '');
+          (d.module ? '<span class="hint">' + esc(MODULE_TITLES[d.module] || '') + '</span>' : '');
       }
       count.textContent = 'Card ' + (idx + 1) + ' of ' + order.length;
       if (live) live.textContent = showingDef ? d.term + '. Definition: ' + d.def : 'Term: ' + d.term;
