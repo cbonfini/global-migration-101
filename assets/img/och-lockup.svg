@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 56" role="img" aria-label="Refugees and Migrants in Our Common Home — Villanova University Mother Cabrini Institute on Immigration">
+  <g fill="none" fill-rule="evenodd">
+    <!-- emblem: stylized home + path -->
+    <g transform="translate(0,4)">
+      <rect x="0" y="0" width="48" height="48" rx="10" fill="#002664"/>
+      <path d="M14 26 L24 16 L34 26 L34 36 L27 36 L27 29 L21 29 L21 36 L14 36 Z" fill="#FFFFFF"/>
+      <path d="M9 39 q15 6 30 0" stroke="#847248" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+      <circle cx="24" cy="13" r="2.3" fill="#847248"/>
+    </g>
+    <g transform="translate(60,0)" font-family="'Source Serif 4', Georgia, serif">
+      <text x="0" y="22" font-size="17" font-weight="700" fill="#002664">Refugees &amp; Migrants in Our Common Home</text>
+      <text x="0" y="42" font-size="11.5" font-weight="400" fill="#5b6470" font-family="'Inter', Arial, sans-serif">Villanova University · Mother Cabrini Institute on Immigration</text>
+    </g>
+  </g>
+</svg>

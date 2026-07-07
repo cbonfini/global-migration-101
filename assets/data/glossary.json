@@ -1,0 +1,642 @@
+[
+ {
+  "term": "1951 Refugee Convention",
+  "def": "The Convention Relating to the Status of Refugees, the cornerstone of international refugee law, defining who is a refugee and the protections to which they are entitled, expanded by its 1967 Protocol.",
+  "module": 6
+ },
+ {
+  "term": "Acculturation",
+  "def": "The process of cultural and psychological change that results from contact between migrants and host societies, including strategies such as integration, assimilation, separation, and marginalization.",
+  "module": 9
+ },
+ {
+  "term": "Adaptation finance",
+  "def": "International funding intended to help vulnerable communities adapt to climate change (e.g., the Green Climate Fund). Persistent shortfalls and slow disbursement leave the most exposed populations under-supported, increasing displacement risk.",
+  "module": 13
+ },
+ {
+  "term": "Agenda-setting",
+  "def": "The media's power to determine not just how audiences think about migration but which aspects they think about at all — coverage decisions define what 'migration' means in public debate.",
+  "module": 12
+ },
+ {
+  "term": "Aspirations–capabilities framework",
+  "def": "A theoretical model (associated with Hein de Haas and Jørgen Carling) proposing that migration results from people's aspirations to move combined with their capabilities (resources and freedoms) to do so.",
+  "module": 3
+ },
+ {
+  "term": "Assimilation",
+  "def": "A model of incorporation in which migrants are expected to adopt the dominant culture of the host society, contrasted with pluralist or multicultural approaches.",
+  "module": 10
+ },
+ {
+  "term": "Asylum seeker",
+  "def": "A person who has applied for protection as a refugee and is awaiting a decision on their claim. Not every asylum seeker will be recognized as a refugee, but every recognized refugee was initially an asylum seeker.",
+  "module": 6
+ },
+ {
+  "term": "Belonging",
+  "def": "The subjective feeling of being accepted and 'at home' within a place or community, which migration can disrupt, reshape, and rebuild.",
+  "module": 9
+ },
+ {
+  "term": "Bilateral labor agreement",
+  "def": "A country-to-country agreement governing the terms of labor migration — recruitment, wages, protections, and return — one of the main instruments for managing labor flows.",
+  "module": 8
+ },
+ {
+  "term": "Border externalization",
+  "def": "Policies by which destination states shift migration control outward—to transit and origin countries—through agreements, funding, and enforcement cooperation.",
+  "module": 5
+ },
+ {
+  "term": "Brain drain / brain gain",
+  "def": "The emigration of highly skilled or educated people from a country (drain) and the potential benefits that can flow back through skills, networks, and return (gain).",
+  "module": 8
+ },
+ {
+  "term": "Burden-sharing / responsibility-sharing",
+  "def": "The principle of distributing the costs and responsibilities of refugee reception among states — the central unsolved problem of refugee governance. UNHCR now prefers 'responsibility-sharing' to reframe reception as obligation rather than cost.",
+  "module": 14
+ },
+ {
+  "term": "Capabilities approach",
+  "def": "An ethical framework (Sen, Nussbaum) holding that the test of justice is whether people have substantive capabilities to live lives of dignity — applied to migration, it asks what mobility people are actually able to exercise.",
+  "module": 11
+ },
+ {
+  "term": "Categorical fetishism",
+  "def": "Crawley and Skleparis's critique of the rigid refugee/migrant binary in media and political discourse — categories that fail to describe reality but perform political work in allocating deservingness.",
+  "module": 12
+ },
+ {
+  "term": "Catholic social teaching",
+  "def": "A body of doctrine addressing human dignity, the common good, solidarity, and the rights of migrants, frequently invoked in faith-based migration advocacy.",
+  "module": 11
+ },
+ {
+  "term": "Climate migration",
+  "def": "Movement of people driven wholly or partly by sudden or gradual changes in the environment due to climate change, such as sea-level rise, drought, and extreme weather.",
+  "module": 13
+ },
+ {
+  "term": "Climate refugee",
+  "def": "A widely used but legally contested term for people displaced by climate impacts; such persons are generally not covered by the 1951 Refugee Convention, creating a protection gap.",
+  "module": 13
+ },
+ {
+  "term": "Colonial migration",
+  "def": "Population movements produced by colonial systems, including settler migration, the transatlantic slave trade, indentured labor, and post-colonial migration from former colonies to metropoles.",
+  "module": 4
+ },
+ {
+  "term": "Communitarianism",
+  "def": "The position that political communities have genuine moral significance and legitimate interests in self-determination, including some authority over membership and admission — the principal counterweight to cosmopolitan arguments.",
+  "module": 11
+ },
+ {
+  "term": "Contract substitution",
+  "def": "The documented practice of promising a worker one contract during recruitment, then imposing an inferior one on arrival — prevalent in Gulf Cooperation Council labor markets.",
+  "module": 8
+ },
+ {
+  "term": "Cosmopolitanism",
+  "def": "The philosophical position that all human beings belong to a single moral community with obligations that transcend national borders — in migration ethics, the foundation for arguments limiting states' right to exclude.",
+  "module": 11
+ },
+ {
+  "term": "Cumulative causation",
+  "def": "The process by which migration changes conditions in sending and receiving communities — through remittances, cultural capital, and land use — in ways that generate further migration, making flows self-perpetuating.",
+  "module": 1
+ },
+ {
+  "term": "Debt bondage",
+  "def": "A form of labor exploitation in which migrants who paid high recruitment fees must work off debt under threat, giving employers and traffickers coercive leverage. Built into many labor migration systems rather than incidental to them.",
+  "module": 8
+ },
+ {
+  "term": "Deportation / removal",
+  "def": "The compulsory return of a non-citizen from a state, typically following a determination that the person has no legal right to remain.",
+  "module": 7
+ },
+ {
+  "term": "Deportation gap",
+  "def": "The difference between removal orders issued and removals actually carried out. EU states issued about 420,000 removal orders in 2022 but returned only about 20 percent — leaving a large population in legal limbo.",
+  "module": 7
+ },
+ {
+  "term": "Diaspora",
+  "def": "A community of people living outside their ancestral homeland who maintain connections—real or symbolic—to it, often across generations.",
+  "module": 4
+ },
+ {
+  "term": "Document confiscation",
+  "def": "The practice of employers seizing workers' passports and identity documents to prevent them from leaving — illegal under international law but common in domestic and construction sectors.",
+  "module": 8
+ },
+ {
+  "term": "Drivers of migration",
+  "def": "The structural and proximate factors—economic, political, demographic, environmental, and social—that shape why, how, and whether people move. Drivers typically interact rather than operate in isolation.",
+  "module": 3
+ },
+ {
+  "term": "Dual labor market theory",
+  "def": "Piore's (1979) argument that international migration is driven less by conditions in sending countries than by structural demand in advanced economies for low-wage labor in a secondary labor market that native workers reject.",
+  "module": 1
+ },
+ {
+  "term": "Dublin Regulation",
+  "def": "The EU rule assigning responsibility for an asylum claim to the first member state a person enters — concentrating burden on frontier states like Greece and Italy and a central driver of the EU asylum system's structural crisis.",
+  "module": 6
+ },
+ {
+  "term": "Durable solutions",
+  "def": "The three long-term resolutions to displacement recognized in refugee policy: voluntary repatriation to the country of origin, local integration in the host country, and resettlement to a third country.",
+  "module": 6
+ },
+ {
+  "term": "Emigrant",
+  "def": "A person who leaves their country of origin to settle, permanently or temporarily, in another country. The same person is an immigrant from the perspective of the destination country.",
+  "module": 1
+ },
+ {
+  "term": "Environmental justice",
+  "def": "The principle that the burdens of environmental harm and the benefits of environmental goods should be fairly distributed, central to debates on who bears the costs of climate displacement.",
+  "module": 13
+ },
+ {
+  "term": "Exclusion clauses (Article 1F)",
+  "def": "Provisions of the 1951 Convention excluding from refugee status those who have committed war crimes, crimes against humanity, or serious non-political crimes — protecting the integrity of the protection regime.",
+  "module": 6
+ },
+ {
+  "term": "False equivalence",
+  "def": "The journalistic practice of presenting evidence-based findings and false claims as equally valid 'sides' of a debate. In migration coverage, 'balance' of this kind actively misleads audiences.",
+  "module": 12
+ },
+ {
+  "term": "Family reunification",
+  "def": "Legal admission of family members of settled migrants — the single largest category of legal permanent immigration in most OECD countries.",
+  "module": 7
+ },
+ {
+  "term": "Feminization of migration",
+  "def": "The growing share and visibility of women migrating independently as workers, concentrated in domestic and care sectors where labor protections are weakest — creating compounded vulnerability requiring targeted policy.",
+  "module": 8
+ },
+ {
+  "term": "Financial inclusion",
+  "def": "Access to useful and affordable financial products and services—payments, savings, credit, insurance—an important factor in migrant livelihoods and remittance flows.",
+  "module": 8
+ },
+ {
+  "term": "Forced migration",
+  "def": "A migratory movement in which an element of coercion exists, including threats to life and livelihood arising from natural or human-made causes such as conflict, persecution, disaster, or development projects.",
+  "module": 1
+ },
+ {
+  "term": "Framing",
+  "def": "The way media and political actors select and emphasize certain aspects of migration—such as 'crisis,' 'invasion,' 'contribution,' or 'rescue'—shaping public understanding and policy.",
+  "module": 12
+ },
+ {
+  "term": "Global Compact for Migration (GCM)",
+  "def": "The Global Compact for Safe, Orderly and Regular Migration, adopted in 2018, the first inter-governmentally negotiated agreement covering all dimensions of international migration.",
+  "module": 14
+ },
+ {
+  "term": "Global Compact on Refugees (GCR)",
+  "def": "A 2018 framework affirming international cooperation and more equitable responsibility-sharing for hosting and supporting refugees.",
+  "module": 14
+ },
+ {
+  "term": "Guest worker program",
+  "def": "State-run temporary labor recruitment, exemplified by Germany's post-war Gastarbeiter system that recruited over 2.6 million workers. Such programs often produced permanent settlement despite their temporary design.",
+  "module": 4
+ },
+ {
+  "term": "Hijra",
+  "def": "The Prophet Muhammad's migration from Mecca to Medina, one of Islam's foundational events — grounding a strong tradition of obligation toward migrants and those seeking refuge.",
+  "module": 11
+ },
+ {
+  "term": "Hometown association",
+  "def": "A migrant organization built around a shared origin community that channels collective remittances, funds local projects, and sustains transnational ties between diaspora and home.",
+  "module": 9
+ },
+ {
+  "term": "Hospitality (ethic of)",
+  "def": "The moral disposition to welcome the stranger, rooted in many religious and philosophical traditions and central to migration ethics.",
+  "module": 11
+ },
+ {
+  "term": "Human smuggling",
+  "def": "The facilitation, for financial or material gain, of irregular entry of a person into a country of which they are not a national or resident. Distinct from trafficking, smuggling is generally consensual.",
+  "module": 5
+ },
+ {
+  "term": "Human trafficking",
+  "def": "The recruitment, transport, or harboring of people through force, fraud, or coercion for the purpose of exploitation. Unlike smuggling, trafficking is a crime against a person and need not involve border crossing.",
+  "module": 5
+ },
+ {
+  "term": "Humanitarian response",
+  "def": "The provision of assistance and protection to people affected by displacement and crisis, aimed at saving lives, alleviating suffering, and upholding human dignity.",
+  "module": 14
+ },
+ {
+  "term": "Identity",
+  "def": "The sense of self and group belonging shaped by factors such as nationality, ethnicity, religion, language, gender, and migration experience, often negotiated and renegotiated through migration.",
+  "module": 9
+ },
+ {
+  "term": "Immigrant",
+  "def": "A person who moves into a country other than that of their nationality or usual residence, so that the destination country becomes their new country of usual residence.",
+  "module": 1
+ },
+ {
+  "term": "Immigration detention",
+  "def": "The deprivation of liberty of non-citizens for reasons related to their migration status, used by states pending decisions on admission, removal, or asylum.",
+  "module": 7
+ },
+ {
+  "term": "Indentured labor",
+  "def": "A system of bonded labor migration, prominent in the 19th century, in which workers were contracted to work for a fixed term, often replacing enslaved labor after abolition.",
+  "module": 4
+ },
+ {
+  "term": "Informal economy",
+  "def": "Economic activity that is not regulated or protected by the state, in which many migrants—especially those with irregular status—are concentrated.",
+  "module": 8
+ },
+ {
+  "term": "Integration",
+  "def": "The dynamic, two-way process of mutual accommodation by migrants and host societies, encompassing economic, social, cultural, and civic participation.",
+  "module": 10
+ },
+ {
+  "term": "Internally displaced person (IDP)",
+  "def": "A person forced to flee their home but who remains within the borders of their own country, and who therefore does not cross an international border and is not covered by the Refugee Convention.",
+  "module": 6
+ },
+ {
+  "term": "Intersectionality",
+  "def": "An analytical framework (originating with Kimberlé Crenshaw) recognizing that overlapping identities—such as race, gender, class, disability, and migration status—combine to shape distinct experiences of advantage or disadvantage.",
+  "module": 9
+ },
+ {
+  "term": "Intervening obstacles",
+  "def": "In Lee's push-pull model, the factors that impede or facilitate movement between origin and destination: distance, cost, border enforcement, visa regimes, and legal barriers.",
+  "module": 3
+ },
+ {
+  "term": "Involuntary immobility",
+  "def": "Carling's (2002) term for the condition of aspiring to migrate but lacking the ability to do so — a population rendered invisible by frameworks that study only those who move, with documented well-being costs.",
+  "module": 1
+ },
+ {
+  "term": "IOM",
+  "def": "The International Organization for Migration, the UN migration agency, which produces the World Migration Report and operational migration data.",
+  "module": 2
+ },
+ {
+  "term": "Irregular migration",
+  "def": "Movement that takes place outside the laws, regulations, or international agreements governing entry into or exit from the country of origin, transit, or destination. Often preferred over 'illegal migration' because people are not illegal.",
+  "module": 2
+ },
+ {
+  "term": "Kafala system",
+  "def": "A sponsorship system in Gulf states and elsewhere that legally ties a migrant worker's status to a specific employer, giving employers extensive control over workers' mobility and creating structural conditions for exploitation.",
+  "module": 8
+ },
+ {
+  "term": "Labor migration",
+  "def": "The movement of people from one area to another for the purpose of employment, ranging from high-skilled professionals to seasonal agricultural workers.",
+  "module": 8
+ },
+ {
+  "term": "Liberal paradox",
+  "def": "Hollifield's (2004) description of the structural tension liberal democracies face between economic openness to goods and capital, which globalization demands, and political pressure to restrict labor mobility.",
+  "module": 1
+ },
+ {
+  "term": "Long-distance nationalism",
+  "def": "Glick Schiller's term for migrants' continued participation in origin-country politics — donating, voting, and lobbying from abroad — sometimes with more influence than residents.",
+  "module": 9
+ },
+ {
+  "term": "Loss and Damage",
+  "def": "The framework established at COP27 (2022) under which wealthy, high-emission countries compensate developing countries for climate harms that cannot be adapted to — the first formal acknowledgment of compensatory climate obligations, relevant to displacement.",
+  "module": 13
+ },
+ {
+  "term": "Methodological nationalism",
+  "def": "The bias of taking the nation-state as the natural unit of social analysis, which renders transnational social fields invisible and embeds hidden assumptions in how migrants are counted, categorized, and studied.",
+  "module": 9
+ },
+ {
+  "term": "Migrant",
+  "def": "A person who moves away from their place of usual residence, whether within a country or across an international border, temporarily or permanently, and for a variety of reasons. There is no universally agreed legal definition.",
+  "module": 1
+ },
+ {
+  "term": "Migration",
+  "def": "The movement of people from one place of residence to another, whether within a country (internal) or across international borders (international), and whether temporary or permanent.",
+  "module": 1
+ },
+ {
+  "term": "Migration and development",
+  "def": "The field examining the reciprocal relationship between human mobility and economic, social, and human development in origin and destination societies.",
+  "module": 8
+ },
+ {
+  "term": "Migration corridor",
+  "def": "The cumulative pathway connecting an origin country to a destination country, reflecting the total number of people who have moved between the two over time.",
+  "module": 2
+ },
+ {
+  "term": "Migration flow",
+  "def": "The number of migrants entering or leaving a given country during a specific period, capturing movement rather than a static count.",
+  "module": 2
+ },
+ {
+  "term": "Migration governance",
+  "def": "The combined frameworks of law, policy, institutions, and practices—at local, national, regional, and global levels—through which migration is managed.",
+  "module": 14
+ },
+ {
+  "term": "Migration hump",
+  "def": "The empirical pattern (Martin & Taylor, 1996) whereby emigration initially rises as poor countries develop economically — because migration requires resources — before eventually declining at higher income levels.",
+  "module": 1
+ },
+ {
+  "term": "Migration route",
+  "def": "The geographic pathway migrants travel between origin and destination, shaped by physical geography, transport infrastructure, smuggling networks, and border enforcement.",
+  "module": 5
+ },
+ {
+  "term": "Migration stock",
+  "def": "The total number of international migrants present in a country at a given point in time, regardless of when they arrived.",
+  "module": 2
+ },
+ {
+  "term": "Misinformation / disinformation",
+  "def": "False or misleading information spread without intent to deceive (misinformation) or deliberately to deceive (disinformation), both common in migration discourse.",
+  "module": 12
+ },
+ {
+  "term": "Mixed migration",
+  "def": "Cross-border movements of people, including refugees, asylum seekers, economic migrants, and others, who travel along the same routes and use the same means of transport but for different reasons.",
+  "module": 1
+ },
+ {
+  "term": "Mobility",
+  "def": "A broad term encompassing all forms of movement of people, often used to emphasize the normality, agency, and circularity of human movement rather than framing it solely as a problem to be controlled.",
+  "module": 1
+ },
+ {
+  "term": "Moral panic",
+  "def": "An episode in which a group or issue is portrayed as a threat to societal values, often amplified by media and exploited politically, frequently applied to migration.",
+  "module": 12
+ },
+ {
+  "term": "Multi-causality",
+  "def": "The principle that migration decisions rarely have a single cause but emerge from the interaction of multiple, overlapping drivers operating at individual, household, community, and structural levels.",
+  "module": 3
+ },
+ {
+  "term": "Multi-level governance",
+  "def": "The coordination of migration policy across multiple, interacting levels of authority—local, national, regional, and international—and with non-state actors.",
+  "module": 14
+ },
+ {
+  "term": "Neoclassical migration theory",
+  "def": "The oldest economic theory of migration: individuals move in rational response to wage differentials between regions, with flows predicted to continue until wages equalize. Associated with Ravenstein (1885) and Todaro & Harris (1970).",
+  "module": 1
+ },
+ {
+  "term": "Net migration",
+  "def": "The difference between the number of immigrants and the number of emigrants for a given area over a period; positive net migration indicates more arrivals than departures.",
+  "module": 2
+ },
+ {
+  "term": "Network theory (migration)",
+  "def": "The insight that established migrant networks lower the costs and risks of subsequent moves, creating self-reinforcing migration flows that persist long after the original structural conditions have changed.",
+  "module": 1
+ },
+ {
+  "term": "New economics of labor migration (NELM)",
+  "def": "A framework (Stark & Bloom, 1985) that treats migration as a household-level strategy to diversify income and manage risk, shifting the unit of analysis from the individual to the family.",
+  "module": 1
+ },
+ {
+  "term": "Non-refoulement",
+  "def": "A core principle of international law prohibiting states from returning a person to a territory where they would face persecution, torture, or other serious harm.",
+  "module": 7
+ },
+ {
+  "term": "Open borders argument",
+  "def": "A normative position in political philosophy holding that restrictions on movement are difficult to justify and that freedom of movement should be expanded; debated against communitarian and statist views.",
+  "module": 11
+ },
+ {
+  "term": "Planned relocation",
+  "def": "The organized, often state-led movement of people away from areas rendered uninhabitable by environmental change, intended to reduce risk and protect communities.",
+  "module": 13
+ },
+ {
+  "term": "Polycentric governance",
+  "def": "Governance characterized by multiple centers of authority at different scales — local, national, regional, international — increasingly used to describe how migration is actually governed in the absence of a single global authority.",
+  "module": 14
+ },
+ {
+  "term": "Precipitating event",
+  "def": "A specific occurrence that triggers migration which structural conditions have made likely — a drought after years of rural poverty, a political crackdown, a violent incident.",
+  "module": 3
+ },
+ {
+  "term": "Protracted displacement",
+  "def": "A situation in which refugees or IDPs have been unable to return home, integrate locally, or resettle for five or more years. Average displacement durations now approach 20 years, making 'temporary' protection a fiction for most.",
+  "module": 4
+ },
+ {
+  "term": "Public opinion",
+  "def": "Collective attitudes toward migration and migrants, shaped by economic conditions, media, contact, and political messaging, and a key driver of policy.",
+  "module": 12
+ },
+ {
+  "term": "Push and pull factors",
+  "def": "A foundational framework describing conditions that drive people away from an origin (push: conflict, poverty, disaster) and conditions that attract them to a destination (pull: jobs, safety, family). Increasingly critiqued for oversimplifying complex causation.",
+  "module": 3
+ },
+ {
+  "term": "Rapid-onset events",
+  "def": "Sudden climate-related disasters — cyclones, floods, wildfires — that displace people immediately, in contrast to slow-onset processes like drought and sea-level rise. Most resulting displacement is internal.",
+  "module": 13
+ },
+ {
+  "term": "Recognition rate",
+  "def": "The share of asylum claims decided positively. Global rates average roughly 40–50 percent, but rates for the same nationality vary enormously across countries — evidence that adjudication quality, not just case merits, drives outcomes.",
+  "module": 6
+ },
+ {
+  "term": "Refugee",
+  "def": "Under the 1951 Convention, a person who, owing to a well-founded fear of persecution for reasons of race, religion, nationality, membership of a particular social group, or political opinion, is outside their country of nationality and unable or unwilling to return.",
+  "module": 6
+ },
+ {
+  "term": "Refugee resettlement",
+  "def": "The selection and transfer of refugees from a state in which they have sought protection to a third state that has agreed to admit them with permanent residence.",
+  "module": 6
+ },
+ {
+  "term": "Refugee-led organization",
+  "def": "An organization founded and run by refugees themselves to support their communities, increasingly recognized as central to effective and dignified responses.",
+  "module": 10
+ },
+ {
+  "term": "Regularization",
+  "def": "A process by which a state grants legal status to migrants who are present without authorization, sometimes through amnesties or earned pathways.",
+  "module": 7
+ },
+ {
+  "term": "Remittances",
+  "def": "The money and goods that migrants send back to family and communities in their countries of origin, often exceeding official development aid in volume.",
+  "module": 8
+ },
+ {
+  "term": "Right to migrate / right not to migrate",
+  "def": "Twin ethical and policy framings: the right to seek opportunity and safety by moving, and the right to remain in one's home with dignity rather than being compelled to leave. Both inform contemporary migration debates.",
+  "module": 1
+ },
+ {
+  "term": "Safe third country",
+  "def": "A rule allowing a state to return an asylum seeker to a country designated as 'safe' without a full merits determination of their claim — contested because designations may not reflect actual protection conditions.",
+  "module": 6
+ },
+ {
+  "term": "Sanctuary city",
+  "def": "A municipality that limits its cooperation with national immigration enforcement, often to build trust with immigrant communities and protect access to local services.",
+  "module": 10
+ },
+ {
+  "term": "Scenario planning",
+  "def": "A strategic planning method that develops multiple plausible futures rather than a single prediction — the appropriate governance tool when the scale of future climate displacement is deeply uncertain.",
+  "module": 13
+ },
+ {
+  "term": "Slow-onset events",
+  "def": "Gradual environmental changes—such as desertification, salinization, and sea-level rise—that erode livelihoods and habitability over time, in contrast to rapid-onset disasters.",
+  "module": 13
+ },
+ {
+  "term": "Social cohesion",
+  "def": "The degree of trust, shared values, and cooperation among members of a community, a frequent focus of integration policy in diverse societies.",
+  "module": 10
+ },
+ {
+  "term": "Solidarity",
+  "def": "An ethical and political principle emphasizing shared responsibility and mutual support across communities and borders, often invoked in responses to displacement.",
+  "module": 11
+ },
+ {
+  "term": "Solutions journalism",
+  "def": "A reporting framework that covers responses as well as problems — documenting what works in integration and refugee inclusion — shown to reduce hostility relative to threat-framed coverage.",
+  "module": 12
+ },
+ {
+  "term": "Sovereignty",
+  "def": "The principle that a state has supreme authority over its territory, including the right to control entry and residence—often in tension with international human rights and refugee obligations.",
+  "module": 7
+ },
+ {
+  "term": "Stateless person",
+  "def": "A person who is not considered a national by any state under the operation of its law. UNHCR counted 4.4 million stateless people at end-2024, though the true figure is likely higher because stateless people are often invisible to the states that would count them.",
+  "module": 1
+ },
+ {
+  "term": "Statelessness",
+  "def": "The condition of not being recognized as a national by any state, leaving a person without the protections and rights that citizenship provides.",
+  "module": 9
+ },
+ {
+  "term": "Structural driver",
+  "def": "A systemic condition that produces migration pressure at the macro level — trade patterns, colonial histories, climate systems, global wage differentials — as distinct from the proximate events that trigger individual moves.",
+  "module": 3
+ },
+ {
+  "term": "Survival migrant",
+  "def": "Betts's (2013) term for people who fall outside the 1951 Convention refugee definition but face severe deprivation that compels movement — naming a major gap in international protection.",
+  "module": 1
+ },
+ {
+  "term": "Temporary protected status (TPS)",
+  "def": "A category used by the US and other states to grant temporary legal status to nationals of countries experiencing crisis, without a pathway to permanence — leaving long-settled holders in extended legal limbo.",
+  "module": 7
+ },
+ {
+  "term": "Transit migration",
+  "def": "Migration through one or more countries with the intention of reaching a final destination elsewhere; transit periods can become prolonged or permanent.",
+  "module": 5
+ },
+ {
+  "term": "Transnationalism",
+  "def": "The processes by which migrants build and maintain social, economic, and political ties that span their origin and destination countries simultaneously.",
+  "module": 9
+ },
+ {
+  "term": "Trauma-informed practice",
+  "def": "An approach to engaging with migrants that recognizes the prevalence and impact of trauma, prioritizes physical and emotional safety, and avoids re-traumatization.",
+  "module": 5
+ },
+ {
+  "term": "Ubuntu",
+  "def": "A communal African philosophy — 'I am because we are' — that grounds human identity in relationship and obligation to others, offering a non-Western ethical framework for welcoming the displaced.",
+  "module": 4
+ },
+ {
+  "term": "UN DESA",
+  "def": "The United Nations Department of Economic and Social Affairs, which produces the authoritative International Migrant Stock estimates used widely in research and policy.",
+  "module": 2
+ },
+ {
+  "term": "Unaccompanied minor",
+  "def": "A child migrating without a parent or legal guardian. Roughly 20 percent of refugee arrivals to Europe are unaccompanied children, who face elevated risks of trafficking, detention, and institutional neglect.",
+  "module": 5
+ },
+ {
+  "term": "UNHCR",
+  "def": "The Office of the United Nations High Commissioner for Refugees, the UN agency mandated to protect refugees, forcibly displaced communities, and stateless people.",
+  "module": 6
+ },
+ {
+  "term": "Visa regime",
+  "def": "The system of permissions a state requires for non-citizens to enter, transit, or reside, functioning as a primary tool of migration control.",
+  "module": 7
+ },
+ {
+  "term": "Voluntary migration",
+  "def": "Movement based primarily on the migrant's own choice and free will, typically in pursuit of opportunity, family reunification, education, or improved living conditions, though the distinction from forced migration is often a continuum rather than a binary.",
+  "module": 1
+ },
+ {
+  "term": "Voluntary return",
+  "def": "One of the three traditional durable solutions: refugees returning to their country of origin. Over 1.6 million refugees returned in 2024, though 'voluntariness' is contested when conditions at origin remain unsafe.",
+  "module": 6
+ },
+ {
+  "term": "Welcoming the stranger",
+  "def": "A recurring ethical and religious motif across many traditions calling for hospitality toward migrants and refugees, central to historical and contemporary migration ethics.",
+  "module": 4
+ },
+ {
+  "term": "World systems theory",
+  "def": "A framework associating migration flows with the penetration of global capitalism into peripheral regions: colonial and post-colonial economic ties channel movement along the same routes through which capital has flowed.",
+  "module": 1
+ },
+ {
+  "term": "Xenia",
+  "def": "The ancient Greek sacred duty of hospitality to strangers and travelers, embedded in Homeric epic and religious practice — an early normative tradition of welcome that informs migration ethics.",
+  "module": 4
+ }
+]
